@@ -1,10 +1,17 @@
 <img width="1241" height="500" alt="IMG_8096" src="https://github.com/user-attachments/assets/7f79cbc8-e830-4af7-b38b-8ed210879134" />
 <p>
  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/93b90dc2-77d2-435e-a7a2-99e5555486d9">
+  <img src="https://github.com/user-attachments/assets/93b90dc2-77d2-435e-a7a2-99e5555486d9" width="1992">
+</picture>
+
+<h6 align="center"> <a href=https://github.com/pt-hall-of-media> @𝖕𝖙-𝖍𝖆𝖑𝖑-𝖔𝖋-𝖒𝖊𝖉𝖎𝖆 </a> </h6>
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/fde317b8-0ec4-4c0f-b08a-e26b5849551b">
   <img src="https://github.com/user-attachments/assets/fde317b8-0ec4-4c0f-b08a-e26b5849551b" width="1992" align="center">
 </picture>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
