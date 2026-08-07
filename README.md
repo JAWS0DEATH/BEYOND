@@ -6,6 +6,7 @@
 </picture>
 
 <h6 align="center"> <a href=https://github.com/pt-hall-of-media> @𝖕𝖙-𝖍𝖆𝖑𝖑-𝖔𝖋-𝖒𝖊𝖉𝖎𝖆 </a> </h6>
+<h6 align="center"> <a href=https://github.com/charactersofpt> @𝖈𝖍𝖆𝖗𝖈𝖙𝖊𝖗𝖘𝖔𝖋𝖕𝖙 </a> </h6>
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/fde317b8-0ec4-4c0f-b08a-e26b5849551b">
   <img src="https://github.com/user-attachments/assets/fde317b8-0ec4-4c0f-b08a-e26b5849551b" width="1992" align="center">
