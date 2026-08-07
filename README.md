@@ -5,7 +5,7 @@
   <img src="https://github.com/user-attachments/assets/93b90dc2-77d2-435e-a7a2-99e5555486d9" width="1992">
 </picture>
 
-<h6 align="center"> <a href=https://github.com/pt-hall-of-media> @𝖕𝖙-𝖍𝖆𝖑𝖑-𝖔𝖋-𝖒𝖊𝖉𝖎𝖆 </a> <a href=https://github.com/charactersofpt> @𝖈𝖍𝖆𝖗𝖈𝖙𝖊𝖗𝖘𝖔𝖋𝖕𝖙 </a> </h6>
+<h6 align="center"> <a href=https://github.com/pt-hall-of-media> @𝖕𝖙-𝖍𝖆𝖑𝖑-𝖔𝖋-𝖒𝖊𝖉𝖎𝖆 </a> 𖤐 <a href=https://github.com/charactersofpt> @𝖈𝖍𝖆𝖗𝖈𝖙𝖊𝖗𝖘𝖔𝖋𝖕𝖙 </a> </h6>
 
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/fde317b8-0ec4-4c0f-b08a-e26b5849551b">
