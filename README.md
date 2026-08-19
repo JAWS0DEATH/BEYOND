@@ -46,10 +46,7 @@
   <img src="https://github.com/user-attachments/assets/0a3d6f80-4210-4bd8-87fc-b6be0b40af2c" width="250" height="50">
   </a></picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/35a373f4-21d3-4681-bdfe-af0a7ae5d6d1">
-  <img src="https://github.com/user-attachments/assets/35a373f4-21d3-4681-bdfe-af0a7ae5d6d1" width="50" height="50" align="center">
-</picture>
+
  <picture><a href=https://guns.lol/j4ws0d3ath>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6798af3e-6dd5-464d-bbf2-5feb1111266b">
   <img src="https://github.com/user-attachments/assets/6798af3e-6dd5-464d-bbf2-5feb1111266b" width="250" height="50">
